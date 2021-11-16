@@ -1,0 +1,9 @@
+body{
+    background-image: url("../files/low-poly-grid-haikei.png");
+}
+.br{
+    font-size: 30px;
+}
+.carousel-inner{
+    height: 800px;
+}
